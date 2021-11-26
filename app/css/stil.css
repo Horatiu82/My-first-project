@@ -1,0 +1,168 @@
+body {
+    /*background-image: url("../images/background.png");
+    background-size: cover;*/
+    background: rgb(56, 56, 56);
+    height: 1000 px;
+    color: white;
+}
+
+h1 {
+    color: rgb(0, 162, 255);
+}
+
+h3 {
+    color: white;
+    width: 500px;
+    margin: auto;
+}
+
+p {
+    color: white;
+}
+
+.col {
+    margin-top: 6rem;
+}
+
+.acasa {
+    height: 500px;
+    margin: auto;
+    width: 1000px;
+}
+
+.contact {
+    height: 500px;
+    width: 1000px;
+}
+
+.container {
+    box-sizing: none;
+    margin: auto;
+}
+
+.despre {
+    height: 500px;
+    width: 1000px;
+}
+
+.container {
+    /* clasa pentru main content din layoutAuth */
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.firstBody {
+    background-color: rgb(56, 56, 56)
+}
+
+.secondBody {
+    background-color: rgb(56, 56, 56)
+}
+
+.pozeCase {
+    border: 2px solid rgb(254, 255, 252);
+    height: 400px;
+    margin: 20px auto;
+    width: 100%;
+}
+
+.btnCase {
+    background-color: black;
+    border: 1px solid white;
+    color: white;
+    font-size: 14px;
+    letter-spacing: 4px;
+    margin: 10px auto 40px;
+    padding: 20px 25px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.btnCase:hover {
+    background-color: rgb(161, 159, 159);
+    border: 1px solid rgba(0, 183, 255, 0.945);
+    color: black;
+    transition: 0.3s;
+}
+
+.usiKari {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 20px 20px;
+}
+
+.card {
+    margin: 50px auto;
+}
+
+.geamuriKari {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 20px 20px;
+}
+
+.feronerieKari {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 20px 20px;
+}
+
+.pozeBalcoane {
+    border: 2px solid rgb(254, 255, 252);
+    height: 400px;
+    margin: 20px auto;
+    width: 100%;
+}
+
+.butonBal {
+    background-color: black;
+    border: 1px solid white;
+    color: white;
+    font-size: 14px;
+    letter-spacing: 4px;
+    margin: 10px auto 40px;
+    padding: 20px 25px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.butonBal:hover {
+    background-color: rgb(161, 159, 159);
+    border: 1px solid rgba(0, 183, 255, 0.945);
+    color: black;
+    transition: 0.3s;
+}
+
+.pozeBloc {
+    border: 2px solid rgb(254, 255, 252);
+    height: 400px;
+    margin: 20px auto;
+    width: 100%;
+}
+
+.butonBloc {
+    background-color: black;
+    border: 1px solid white;
+    color: white;
+    font-size: 14px;
+    letter-spacing: 4px;
+    margin: 10px auto 40px;
+    padding: 20px 25px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.butonBloc:hover {
+    background-color: rgb(161, 159, 159);
+    border: 1px solid rgba(0, 183, 255, 0.945);
+    color: black;
+    transition: 0.3s;
+}
